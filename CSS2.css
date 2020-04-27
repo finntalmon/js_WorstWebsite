@@ -1,0 +1,35 @@
+h1 {
+    color: orangered;
+    font-family: "Apple Braille";
+    font-weight: bold;
+    font-size: 80px;
+    text-align: right;
+    border: 1px black;
+    text-shadow: 0 0 10px dodgerblue, 0 0 15px dodgerblue, 0 0 20px dodgerblue, 0 0 25px dodgerblue, 0 0 30px dodgerblue, 0 0 45px dodgerblue, 0 0 60px dodgerblue, 0 0 80px dodgerblue;
+    position: relative;
+    right: 200px;
+}
+
+
+h2{
+    font-family: "fantasy";
+    font-size: 40px;
+    text-shadow: rgba(255,255,255,.5) 0 0 15px, rgba(255,255,255,.5) 0 0 10px;
+    border: 1px black;
+    transform: rotate(160deg);
+
+    position: relative;
+    left: 200px;
+
+}
+
+body{
+    align-content: center;
+    /*repetition*/
+    background-image: url("https://media3.giphy.com/media/K0ZZjkjYKiD7y/giphy.gif");
+    left: 30px;
+    margin-left: -100px;
+    margin-right: 50px;
+    margin-top: 25px;
+    padding-right: 150px;
+}
